@@ -4,7 +4,6 @@ Gem::Specification.new do |s|
   s.version     = '1.1.1'
   s.summary     = 'Export products to Yandex.Market'
   #s.description = 'Add (optional) gem description here'
-  s.required_ruby_version = '>= 1.8.7'
 
   s.authors             = ['parallel588']
   # s.email             = 'david@loudthinking.com'
